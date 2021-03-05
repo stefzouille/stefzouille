@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi dev® 💻
+
+I am currently studying to join the community as a junior developer 🖖
 
 <!--
 **stefzouille/stefzouille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
