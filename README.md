@@ -16,7 +16,7 @@ Find me on my linkedin profile :
 
 Find me on my thingiverse profile :
     <a href="https://www.thingiverse.com/lokcy/designs" rel="nofollow noreferrer">
-    <img src="https://www.thingiverse.com/lokcy/designs" alt="thingiverse"> 
+    <img src=" " alt="thingiverse"> 
   </a>
 
 but what else am I doing otherwise? the D.I.Y of course!! 🔋
