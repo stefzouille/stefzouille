@@ -15,10 +15,9 @@ Find me on my linkedin profile :
 
 
 Find me on my thingiverse profile :
-    <a href="https://www.thingiverse.com/lokcy/designs" rel="nofollow noreferrer">
-    <img src="" alt="thingiverse"> 
-  </a>
-
+    [![thingiverse](https://i.goopics.net/xL4Lp.jpg) thingiverse](https://www.thingiverse.com/lokcy/designs)
+    
+    
 but what else am I doing otherwise? the D.I.Y of course!! 🔋
 
 E-sim manufacturing of interactive display module 7segment, matrix, counter, button box, l293board, nano v3, arduino r3, etc with Simhub.🎮
