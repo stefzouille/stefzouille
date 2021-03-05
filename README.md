@@ -17,12 +17,12 @@ https://www.thingiverse.com/lokcy/designs
 
 but what else am I doing otherwise? the D.I.Y of course!! 🔋
 
-E-sim manufacturing of interactive display module 7segment, matrix, counter, button box, l293board, nano v3, arduino r3, etc with simhub.🎮
+E-sim manufacturing of interactive display module 7segment, matrix, counter, button box, l293board, nano v3, arduino r3, etc with Simhub.🎮
 
 
 I am self-taught makers :🦾
 
-3d modeling on fusion and 3d printing on a Tobeca base passed in D.I.Y rep rap with Marlin software, ramps and uno r3, slice on repeat software.🧠
+3d modeling on fusion and 3d printing on a Tobeca base passed in D.I.Y rep rap with Marlin software, ramps and uno r3, slice on Repetier software.🧠
 
 <!--
 **stefzouille/stefzouille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
