@@ -15,7 +15,7 @@ Find me on my linkedin profile :
 
 
 Find me on my thingiverse profile :
-    [![thingiverse](https://i.goopics.net/xL4Lp.jpg) thingiverse](https://www.thingiverse.com/lokcy/designs)
+    [![Thingiverse](https://i.goopics.net/beK80.jpg) Thingiverse](https://www.thingiverse.com/lokcy/designs)
     
     
 but what else am I doing otherwise? the D.I.Y of course!! 🔋
