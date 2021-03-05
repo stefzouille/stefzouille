@@ -9,13 +9,10 @@
 I am currently studying to join the community as a junior developer 🖖
 
 
-Find me on my linkedin profile :
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/st%C3%A9phane-sorres-5926b897/)
 &nbsp;
 
-
-Find me on my thingiverse profile :
-    [![Thingiverse](https://i.goopics.net/beK80.jpg) Thingiverse](https://www.thingiverse.com/lokcy/designs)
+[![Thingiverse](https://i.goopics.net/beK80.jpg) Thingiverse](https://www.thingiverse.com/lokcy/designs)
     
     
 but what else am I doing otherwise? the D.I.Y of course!! 🔋
