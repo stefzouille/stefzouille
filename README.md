@@ -1,5 +1,9 @@
 ### Hi dev® 💻 I'm Stefc0c0nut !!
-[![Contact me](https://i.goopics.net/be7ep.jpg)Contact me](mailto:?to=contact.lokcy@gmail.com)
+
+
+                                 do you want to recruit me or contact me? click on the picture here :
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp[![Contact me](https://i.goopics.net/be7ep.jpg)](mailto:?to=contact.lokcy@gmail.com)
 &nbsp;
 
 ![dev(1)](https://user-images.githubusercontent.com/41753942/110148926-b4d47900-7ddd-11eb-994e-7279e7835497.jpg)
