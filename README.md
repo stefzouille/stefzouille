@@ -1,11 +1,11 @@
-### Hi dev® 💻                          I'm Stefc0c0nut !!
+### Hi dev® 💻                 =         I'm Stefc0c0nut !!=
+________________________________________________________________________________________________________________________
 
+                    Do you want to recruit me or contact me? click on the first picture here :
 
-                    do you want to recruit me or contact me? click on the first picture here :
-
-   [![Contact me](https://i.goopics.net/be7ep.jpg)](mailto:?to=contact.lokcy@gmail.com)
+[![Contact me](https://i.goopics.net/be7ep.jpg)](mailto:?to=contact.lokcy@gmail.com)
 &nbsp;
-
+_____________________________________________
 ![dev(1)](https://user-images.githubusercontent.com/41753942/110148926-b4d47900-7ddd-11eb-994e-7279e7835497.jpg)
 
 
