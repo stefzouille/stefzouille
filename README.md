@@ -1,4 +1,6 @@
 ### Hi dev® 💻 I'm Stefc0c0nut !!
+[![Contact me](https://i.goopics.net/be7ep.jpg)Contact me](mailto:?to=contact.lokcy@gmail.com)
+&nbsp;
 
 ![dev(1)](https://user-images.githubusercontent.com/41753942/110148926-b4d47900-7ddd-11eb-994e-7279e7835497.jpg)
 
@@ -7,6 +9,8 @@
 
 
 I am currently studying to join the community as a junior developer 🖖
+
+
 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/st%C3%A9phane-sorres-5926b897/)
