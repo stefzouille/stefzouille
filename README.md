@@ -1,4 +1,4 @@
-### Hi dev® 💻                 =         I'm Stefc0c0nut !!=
+### Hi dev® 💻                          I'm Stefc0c0nut !!
 ________________________________________________________________________________________________________________________
 
                                 Do you want to recruit me or contact me? click on the picture here :
