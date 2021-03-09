@@ -6,7 +6,7 @@ ________________________________________________________________________________
   ====[![Contact me](https://i.goopics.net/be7ep.jpg)](mailto:?to=contact.lokcy@gmail.com)====
 
 _____________________________________________
-![dev(1)](https://user-images.githubusercontent.com/41753942/110148926-b4d47900-7ddd-11eb-994e-7279e7835497.jpg)
+![dev(1)](https://i.goopics.net/8RbAx.jpg)
 
 
 
