@@ -1,7 +1,9 @@
 ### Hi dev® 💻                          I'm Stefc0c0nut !!
 ________________________________________________________________________________________________________________________
 
-                                Do you want to RECRUIT ME or CONTACT ME ? CLICK on the picture HERE :
+   Do you want to RECRUIT ME or CONTACT ME ? 
+   
+   CLICK on the picture HERE :
 
   ====[![Contact me](https://i.goopics.net/be7ep.jpg)](mailto:?to=contact.lokcy@gmail.com)====
 
