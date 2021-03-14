@@ -1,7 +1,7 @@
 ### Hi dev® 💻                          I'm Stefc0c0nut !!
 ________________________________________________________________________________________________________________________
 
-   Do you want to RECRUIT ME or CONTACT ME ? 
+   Do you want to CONTACT ME ? 
    
    CLICK on the picture HERE :
 
