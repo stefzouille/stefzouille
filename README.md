@@ -1,9 +1,7 @@
 ### Hi dev® 💻                          I'm Stefc0c0nut !!
 ________________________________________________________________________________________________________________________
 
-   Do you want to CONTACT ME ? 
-   
-   CLICK on the picture HERE :
+
 
   ====[![Contact me](https://i.goopics.net/be7ep.jpg)]()====
 
