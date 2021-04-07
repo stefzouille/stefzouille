@@ -5,7 +5,7 @@ ________________________________________________________________________________
    
    CLICK on the picture HERE :
 
-  ====[![Contact me](https://i.goopics.net/be7ep.jpg)](mailto:?to=contact.lokcy@gmail.com)====
+  ====[![Contact me](https://i.goopics.net/be7ep.jpg)]()====
 
 _____________________________________________
 ![dev(1)](https://i.goopics.net/8RbAx.jpg)
